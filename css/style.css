@@ -1,0 +1,32 @@
+body{
+    font-family:monospace;
+}
+.navbar{
+    background-color: white;
+}
+#about {
+    background: url("../img/g63.jpg") no-repeat center center;
+    background-size: cover;
+    min-height: 500px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+.dark-overlay{
+    background: rgba(0, 0, 0, 0.2);
+    min-height: 500px; 
+} 
+.home-inner{
+    padding-top: 80px; 
+}
+.service{
+    text-align: center;
+    margin-top: 50px;
+}
+hr{
+    width:10%;
+    color: blueviolet;
+}
+.v8{
+    text-align: end;
+}
